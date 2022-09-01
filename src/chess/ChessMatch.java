@@ -4,6 +4,7 @@ import boardgame.Board;
 import chess.pieces.Rook;
 import chess.pieces.King;
 import chess.pieces.Pawn;
+import chess.pieces.Bishop;
 import boardgame.Piece;
 import boardgame.Position;
 
