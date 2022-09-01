@@ -5,6 +5,8 @@ import chess.pieces.Rook;
 import chess.pieces.King;
 import chess.pieces.Pawn;
 import chess.pieces.Bishop;
+import chess.pieces.Knight;
+import chess.pieces.Queen;
 import boardgame.Piece;
 import boardgame.Position;
 
